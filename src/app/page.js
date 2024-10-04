@@ -40,4 +40,3 @@ console.log({products})
 
 
 export default Home
-
